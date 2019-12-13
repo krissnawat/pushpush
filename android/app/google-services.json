@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "438868176728",
+    "firebase_url": "https://krissapp.firebaseio.com",
+    "project_id": "krissapp",
+    "storage_bucket": "krissapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438868176728:android:a18fa4b73befdee69aff2d",
+        "android_client_info": {
+          "package_name": "com.pushpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438868176728-q9kd2ns0hfcj44ko58slbgsnaf94r0n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqI97qxpDUPhKEAQ00pQjb88W7KQk-o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438868176728-q9kd2ns0hfcj44ko58slbgsnaf94r0n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "438868176728-j8967k28110mo93upf3p58nbu521dob9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.kriss-app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
